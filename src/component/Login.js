@@ -62,6 +62,6 @@ const Login = () => {
       <button type="submit">Log In</button>
     </form>
   );
-};
+};  
 
 export default Login;
